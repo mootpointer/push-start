@@ -2,7 +2,7 @@
 
 @snap[north-west ms-logo]
 
-![Microsoft](http://192.168.64.4:9000/assets/logos/Microsoft-logo_rgb_c-wht.png)
+![Microsoft](assets/logos/Microsoft-logo_rgb_c-wht.png)
 
 @snapends
 
@@ -286,12 +286,16 @@ Have a hypothesis to test.
 <span style="font-size: 20px">Andrew Harvey | @mootpointer</span>
 @snapend
 
----?image=http://192.168.64.6:9000/pitchme/cdn/desktop/gitpitch/desktop/master/assets/toast.jpg&size=cover
+---?image=assets/toast.jpg&size=cover
 
 <h2 class="inverted">Soft-boiled eggs and toast soldiers _as a service_</h2>
 
 @snap[south-east text-right]
 <span style="font-size: 20px">Andrew Harvey | @mootpointer</span>
+@snapend
+
+@snap[south-west]
+@size[20px]([flickr.com/photos/anabadili](https://www.flickr.com/photos/anabadili/))
 @snapend
 
 ---?image=http://192.168.64.6:9000/pitchme/cdn/desktop/gitpitch/desktop/master/assets/toast.jpg&size=cover&opacity=70
@@ -305,6 +309,10 @@ Have a hypothesis to test.
 
 @snap[south-east text-right]
 <span style="font-size: 20px">Andrew Harvey | @mootpointer</span>
+@snapend
+
+@snap[south-west]
+@size[20px]([flickr.com/photos/anabadili](https://www.flickr.com/photos/anabadili/))
 @snapend
 
 ---
