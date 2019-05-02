@@ -99,11 +99,9 @@
 # The test:
 
 @ul
-
-- Google Form (Free)
-- SMS/Phone service ($60/mo)
-- Zapier (Free tier)
-
+ - Google Form (Free)
+ - SMS/Phone service ($60/mo)
+ - Zapier (Free tier)
 @ulend
 
 @snap[south-east text-right]
