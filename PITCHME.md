@@ -584,4 +584,10 @@ Just try not to write any code.
 
 ---
 
-# aka.ms/push-start
+# [aka.ms/push-start](https://aka.ms/push-start)
+
+andrew.harvey@microsoft.com
+
+@snap[south-east text-right]
+<span style="font-size: 20px">Andrew Harvey | @mootpointer</span>
+@snapend
