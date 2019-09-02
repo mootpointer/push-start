@@ -475,7 +475,7 @@ Have a hypothesis to test.
 
 ---
 
-# Two problems
+# Three problems
 
 @ol()
 
